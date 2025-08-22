@@ -45,7 +45,7 @@
 - Firefox: [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
 ### 2. 打开 Tampermonkey 编辑器
-- 点击链接打开编辑器：🔗 [Tampermonkey 编辑器](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor)
+- 在浏览器地址栏输入：`chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor`
 
 ### 3. 复制脚本内容
 - 下载 `quicker-markdown-renderer.user.js` 文件
