@@ -40,4 +40,4 @@ https://greasyfork.org/zh-CN/scripts/546744/versions/new
 
 **最后更新**: 2024年12月  
 **脚本ID**: 546744  
-**当前版本**: v1.0.0
+**当前版本**: v1.0.1

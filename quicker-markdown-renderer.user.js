@@ -2,7 +2,7 @@
 // @name         Quicker Markdown Renderer
 // @name:zh-CN   Quicker Markdown 渲染器
 // @namespace    https://greasyfork.org/users/833671-cea
-// @version      1.0.0
+// @version      1.0.1
 // @description  Render markdown content in Quicker action versions table automatically
 // @description:zh-CN  在 Quicker 动作版本表格中自动渲染 Markdown 内容，提升阅读体验
 // @author       Cea
@@ -21,7 +21,7 @@
     const CONFIG = {
         // Script information
         SCRIPT_NAME: 'Quicker Markdown Renderer',
-        VERSION: '1.0.0',
+        VERSION: '1.0.1',
         
         // Timeout settings
         ELEMENT_WAIT_TIMEOUT: 5000,
