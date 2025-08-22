@@ -9,7 +9,7 @@
 // @match        https://getquicker.net/Share/Actions/Versions?code=*
 // @grant        none
 // @require      https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js
-// @license      MIT
+// @license      CC BY-NC 4.0
 // @supportURL   https://greasyfork.org/zh-CN/scripts/546744-quicker-markdown-renderer/feedback
 // ==/UserScript==
 

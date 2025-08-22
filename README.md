@@ -88,10 +88,35 @@ chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-sc
 - 自动检测常见的 markdown 模式
 - 防止重复处理已渲染的内容
 
+## 开源协议
+
+本项目采用 **CC BY-NC 4.0** 协议。
+
+### 📋 协议特点
+
+**✅ 允许：**
+- 分享和分发
+- 修改和改编
+- 个人使用
+- 教育目的
+
+**📝 要求：**
+- 署名（必须注明原作者）
+- 提供许可证链接
+- 标明修改内容
+
+**❌ 禁止：**
+- 商业使用
+- 营利性应用
+- 商业软件集成
+
+CC BY-NC 4.0 是一个广为人知的知识共享协议，允许自由使用但禁止商业用途。
+
 ## 反馈与支持
 
 - 问题反馈：[Greasy Fork 反馈页面](https://greasyfork.org/zh-CN/scripts/546744-quicker-markdown-renderer/feedback)
-- 项目地址：[GitHub 仓库](https://github.com/your-username/quicker-markdown-renderer)
+- 项目地址：[GitHub 仓库](https://github.com/QuickerHub/quicker-markdown-renderer)
+- 协议详情：[LICENSE](LICENSE)
 
 ---
 
