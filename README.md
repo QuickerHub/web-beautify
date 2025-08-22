@@ -46,7 +46,7 @@
 
 ### 2. 打开 Tampermonkey 编辑器
 - 在浏览器地址栏输入：
-```http
+```
 chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor
 ```
 
