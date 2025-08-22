@@ -26,7 +26,7 @@
    - 在浏览器地址栏输入：`chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor`
 
 3. 复制脚本内容
-   - 选择 `quicker-markdown-renderer.user.js`
+   - 选择 `quicker-markdown-renderer.user.js` 或直接从 Greasy Fork 安装
    - 复制全部内容到编辑器
 
 4. 保存脚本

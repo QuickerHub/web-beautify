@@ -1,12 +1,16 @@
 // ==UserScript==
 // @name         Quicker Markdown Renderer
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Render markdown content in Quicker action versions table
-// @author       You
+// @name:zh-CN   Quicker Markdown 渲染器
+// @namespace    https://greasyfork.org/users/833671-cea
+// @version      1.0.0
+// @description  Render markdown content in Quicker action versions table automatically
+// @description:zh-CN  在 Quicker 动作版本表格中自动渲染 Markdown 内容，提升阅读体验
+// @author       Cea
 // @match        https://getquicker.net/Share/Actions/Versions?code=*
 // @grant        none
 // @require      https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js
+// @license      MIT
+// @supportURL   https://greasyfork.org/zh-CN/scripts/546744-quicker-markdown-renderer/feedback
 // ==/UserScript==
 
 (function() {
