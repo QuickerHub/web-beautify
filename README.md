@@ -1,6 +1,13 @@
 # Quicker Markdown Renderer
 
-这个油猴脚本用于在 Quicker 网站的 Action Versions 页面中渲染 markdown 内容。
+在 Quicker 动作版本页面中自动渲染 Markdown 内容，提升阅读体验。
+
+## 🚀 快速安装
+
+**推荐方式：一键安装**
+- [![安装此脚本](https://img.shields.io/badge/Greasy_Fork-安装此脚本-green.svg)](https://greasyfork.org/zh-CN/scripts/546744-quicker-markdown-renderer)
+
+点击上方按钮即可一键安装，无需手动配置！
 
 ## 功能特性
 
@@ -16,23 +23,6 @@
   - 表格 (`| col1 | col2 |`)
   - 引用 (`> quote`)
 
-## 安装步骤
-
-1. 安装 Tampermonkey 浏览器扩展
-   - Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-   - Firefox: [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-
-2. 打开 Tampermonkey 编辑器
-   - 在浏览器地址栏输入：`chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor`
-
-3. 复制脚本内容
-   - 选择 `quicker-markdown-renderer.user.js` 或直接从 Greasy Fork 安装
-   - 复制全部内容到编辑器
-
-4. 保存脚本
-   - 按 Ctrl+S 保存
-   - 或者点击编辑器右上角的保存按钮
-
 ## 使用方法
 
 1. 安装脚本后，访问任意 Quicker Action Versions 页面
@@ -42,13 +32,28 @@
 
 3. 打开浏览器开发者工具 (F12) 查看控制台输出，确认脚本运行状态
 
-## 脚本说明
+## 效果预览
 
-### 完整版本 (`quicker-markdown-renderer.user.js`)
-- 包含完整的错误处理
-- 支持动态内容监听
-- 更精确的 markdown 检测
-- 适合生产环境使用
+查看渲染前后的对比效果：[效果预览](preview.md)
+
+## 手动安装（备选方案）
+
+如果你更喜欢手动安装，请按以下步骤操作：
+
+### 1. 安装 Tampermonkey 浏览器扩展
+- Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- Firefox: [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+
+### 2. 打开 Tampermonkey 编辑器
+- 点击链接打开编辑器：🔗 [Tampermonkey 编辑器](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor)
+
+### 3. 复制脚本内容
+- 下载 `quicker-markdown-renderer.user.js` 文件
+- 复制全部内容到编辑器
+
+### 4. 保存脚本
+- 按 Ctrl+S 保存
+- 或者点击编辑器右上角的保存按钮
 
 ## 故障排除
 
@@ -80,7 +85,11 @@
 - 自动检测常见的 markdown 模式
 - 防止重复处理已渲染的内容
 
-## 在线安装
+## 反馈与支持
 
-你也可以直接从 Greasy Fork 安装：
-- [Quicker Markdown Renderer](https://greasyfork.org/zh-CN/scripts/546744-quicker-markdown-renderer)
+- 问题反馈：[Greasy Fork 反馈页面](https://greasyfork.org/zh-CN/scripts/546744-quicker-markdown-renderer/feedback)
+- 项目地址：[GitHub 仓库](https://github.com/your-username/quicker-markdown-renderer)
+
+---
+
+**推荐安装方式**: [一键安装到 Greasy Fork](https://greasyfork.org/zh-CN/scripts/546744-quicker-markdown-renderer)
